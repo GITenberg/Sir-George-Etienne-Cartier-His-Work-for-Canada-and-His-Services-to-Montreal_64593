@@ -1,0 +1,26 @@
+_repo: Sir-George-Etienne-Cartier-His-Work-for-Canada-and-His-Services-to-Montreal_64593
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Boyd, John
+    birthdate: 1864
+    deathdate: 1933
+    gutenberg_agent_id: '52975'
+    url: http://www.gutenberg.org/2009/agents/52975
+description: ''
+gutenberg_issued: '2021-02-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64593'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F1001'
+- !lcsh 'Politicians -- Canada -- Biography'
+- !lcsh 'Canada -- Politics and government -- 19th century'
+- !lcsh 'Cartier, George-Etienne, Sir, 1814-1873'
+- GITenberg
+title: 'Sir George Etienne Cartier: His Work for Canada and His Services to Montreal'
+url: http://www.gutenberg.org/ebooks/64593
